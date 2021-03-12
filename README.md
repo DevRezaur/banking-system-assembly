@@ -1,9 +1,15 @@
-### Banking System in Assembly Language with File Read
+# Banking System in Assembly Language with File Input
 
 This is a fun assignment that I had to submit during my academic course on microprocessors. 
 I must say writing assembly code is tougher than it seems. But nonetheless, I managed to 
 finish the code in just 1 hour :sunglasses: . Kind of proud with that. Thats why I'm putting 
-that here. In case anyone finds it useful (just showing off :sweat_smile:)
+it here. In case anyone finds it useful (just showing off :sweat_smile:)
+
+---
+
+### Output screenshot
+
+![Screenshot 1](https://raw.githubusercontent.com/DevRezaur/banking-system-assembly/main/screenshots/Output.PNG)
 
 ---
 
